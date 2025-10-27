@@ -1,0 +1,9 @@
+table_id,table_number,section,max_capacity
+10,T1,Patio,4
+11,T2,Patio,4
+12,T3,Patio,2
+20,B1,Bar,2
+21,B2,Bar,2
+30,M1,Main Dining,6
+31,M2,Main Dining,8
+32,M3,Main Dining,4
